@@ -1,0 +1,4 @@
+test:
+  override:
+    - sudo ./test17.sh
+
